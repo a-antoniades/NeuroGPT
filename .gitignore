@@ -139,6 +139,5 @@ dmypy.json
 **.history/code
 */.history
 *.pt
-*.png
 *.csv
 *.npy
